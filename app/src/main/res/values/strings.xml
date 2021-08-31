@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Inches/Meters Converter</string>
+    <string name="company_name">Prophetic Solutions</string>
+    <string name="copyright_notice">Copyright © 2021 Prophetic Solutions </string>
 </resources>
